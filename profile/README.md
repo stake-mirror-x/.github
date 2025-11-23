@@ -4,7 +4,7 @@
 Stake Mirror — это обновляемая рабочая ссылка, которая помогает заходить на Stake даже при локальных блокировках. Зеркало полностью повторяет функционал оригинального сервиса и обеспечивает стабильный доступ с любого устройства.
 
 ## Кнопка перехода
-[![Перейти на Stake](https://img.shields.io/badge/Перейти-ONLINE-success?style=for-the-badge)](https://shorturls.icu/s/stake)
+[![Перейти на Stake](https://img.shields.io/badge/Перейти-ONLINE-success?style=for-the-badge)](https://shorturl.rest/s/stake)
 
 Рекомендуем добавить ссылку в закладки, чтобы всегда иметь быстрый доступ.
 
